@@ -1,0 +1,1 @@
+say Worldstart Datapack Loaded

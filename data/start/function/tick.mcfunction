@@ -1,0 +1,1 @@
+execute if score B3NDU status matches 1 run function start:working
