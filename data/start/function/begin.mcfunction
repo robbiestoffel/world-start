@@ -6,4 +6,4 @@ effect clear @a
 gamemode survival @a
 worldborder set 299999
 worldborder center 0 0
-worldborder set 29999984
+worldborder set 59999968
